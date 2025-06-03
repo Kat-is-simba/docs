@@ -10,3 +10,5 @@ Warp Timer makes scripts check if they are stuck in a long or infinite loop and 
 As a demonstration, consider the project https://turbowarp.org/446742201?stuck. This project has an infinite loop inside a run without screen refresh block. With Warp Timer enabled, the project will run at around two frames per second. With Warp Timer disabled, however, the script will never end.
 
 Warp Timer was previously called "Stuck Checking".
+0 0
+ |
